@@ -147,6 +147,6 @@ resources/
 *.csv
 *.joblib
 *.npy
-*.pk
+*.pkl
 # Ignore dynaconf secret files
 .secrets.*
